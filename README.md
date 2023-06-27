@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @spiritualhost
+- 👀 I’m interested in generative ai and data visualization. 
+- 🌱 I’m currently learning Python for data science. 
+- 📫 How to reach me 5150crisis@protonmail.com
