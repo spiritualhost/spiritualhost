@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @spiritualhost
-- 👀 I’m interested in generative ai and data visualization. 
-- 🌱 I’m currently learning Python for data science and SQL for database interaction. 
+👋 Hi, I’m @spiritualhost
